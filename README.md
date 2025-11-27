@@ -1,4 +1,4 @@
-# Van Gogh Museum AI Assistant
+# Van Gogh Museum Info Bot
 
 An AI-powered assistant designed to answer questions about the **Van Gogh Museum**. This project demonstrates a **Retrieval-Augmented Generation (RAG)** workflow using a hybrid architecture of **Python** (for vector storage/search) and **n8n** (for agentic reasoning).
 
@@ -6,7 +6,7 @@ This system was built as part of the AI Intern Home Assignment to demonstrate th
 
 ## Table of Contents
 
-- [Van Gogh Museum AI Assistant](#van-gogh-museum-ai-assistant)
+- [Van Gogh Museum Info Bot](#van-gogh-museum-info-bot)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Architecture](#architecture)
