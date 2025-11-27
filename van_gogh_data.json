@@ -1,0 +1,162 @@
+[
+{
+    "id": 1,
+    "category": "General Info",
+    "content": "The Van Gogh Museum is located in Amsterdam and houses the world's largest collection of Vincent van Gogh's art. The museum contains over 200 paintings, 500 drawings, and 700 letters by the artist."
+},
+{
+    "id": 2,
+    "category": "History",
+    "content": "Vincent van Gogh was born in the Netherlands in 1853 and died in France in 1890. Although his artistic career lasted only 10 years, he became one of the most influential figures in modern art."
+},
+{
+    "id": 3,
+    "category": "Biography",
+    "content": "Theo van Gogh was Vincent's younger brother and an art dealer. He supported Vincent financially and emotionally throughout his life. Their extensive letter correspondence provides most of what we know about Vincent."
+},
+{
+    "id": 4,
+    "category": "Biography",
+    "content": "The famous 'ear incident' occurred in December 1888 in Arles. After a heated argument with artist Paul Gauguin, Vincent cut off part of his left ear in a moment of mental distress."
+},
+{
+    "id": 5,
+    "category": "Biography",
+    "content": "Vincent voluntarily entered the Saint-Paul-de-Mausole asylum in Saint-Rémy-de-Provence in 1889. Despite his illness, this was one of his most productive periods as an artist."
+},
+{
+    "id": 6,
+    "category": "Visitor Info",
+    "content": "The museum is open daily, though opening hours may vary by season. Generally, it is open from 09:00 AM to 05:00 PM."
+},
+{
+    "id": 7,
+    "category": "Visitor Info",
+    "content": "The best time to visit to avoid crowds is usually before 11:00 AM or after 3:00 PM. Weekdays are generally quieter than weekends."
+},
+{
+    "id": 8,
+    "category": "Rules",
+    "content": "Eating and drinking are strictly prohibited in the museum galleries. Food is only allowed in the designated cafe area."
+},
+{
+    "id": 9,
+    "category": "Tickets",
+    "content": "Tickets for the Van Gogh Museum are only available online. Tickets are not sold at the door. Visitors must book a time slot in advance."
+},
+{
+    "id": 10,
+    "category": "Transport",
+    "content": "The museum is located at Amsterdam Museumplein. It can be reached from the city center via tram lines 2, 5, or 12 (stop: 'Van Baerlestraat')."
+},
+{
+    "id": 11,
+    "category": "Accessibility",
+    "content": "The museum is fully accessible to visitors using wheelchairs. Elevators provide access to all floors, and companions can enter for free."
+},
+{
+    "id": 12,
+    "category": "Shop",
+    "content": "The Museum Shop is located in the entrance hall. It sells art books, prints, and Van Gogh-inspired gifts like silk scarves, jewelry, and home accessories."
+},
+{
+    "id": 13,
+    "category": "Payment",
+    "content": "The Van Gogh Museum is a 'cashless' museum. In the shops and cafe, you can only pay with a debit or credit card."
+},
+{
+    "id": 14,
+    "category": "Rules",
+    "content": "Flash photography is prohibited inside the museum except in designated areas. However, photography is allowed at specific spots like the 'Selfie Walls'."
+},
+{
+    "id": 15,
+    "category": "Facilities",
+    "content": "The Multimedia Guide is available in 11 languages. It offers in-depth stories about the paintings and the artist's life, including games for children."
+},
+{
+    "id": 16,
+    "category": "Facilities",
+    "content": "Large bags, backpacks, and umbrellas are not allowed in the galleries. There is a cloakroom and lockers available, but they cannot accommodate luggage larger than A4 size."
+},
+{
+    "id": 17,
+    "category": "Facilities",
+    "content": "Free Wi-Fi is available throughout the museum for all visitors. You do not need a password to connect."
+},
+{
+    "id": 18,
+    "category": "Dining",
+    "content": "Le Tambourin is the museum cafe offering coffee, lunch, and snacks. It is named after a cafe in Paris that Van Gogh frequently visited."
+},
+{
+    "id": 19,
+    "category": "Events",
+    "content": "'Vincent on Friday' is a special event hosted on the last Friday of every month. The museum stays open late with music, workshops, and guided tours."
+},
+{
+    "id": 20,
+    "category": "Events",
+    "content": "The museum offers a 'Treasure Hunt' activity for children aged 6 to 12. It helps kids explore the masterpieces in a fun and interactive way."
+},
+{
+    "id": 21,
+    "category": "Collection",
+    "content": "Besides paintings, the museum holds a collection of Japanese prints. Vincent was a passionate collector of these prints, which heavily influenced his style."
+},
+{
+    "id": 22,
+    "category": "Research",
+    "content": "The museum library is open to researchers and students by appointment. It contains thousands of books and journals about Van Gogh and his contemporaries."
+},
+{
+    "id": 23,
+    "category": "Artworks",
+    "content": "'Irises' was painted while Vincent was living at the asylum in Saint-Rémy. It is a vibrant study of flowers with strong contrasts between the violet flowers and green leaves."
+},
+{
+    "id": 24,
+    "category": "Artworks",
+    "content": "'Wheatfield with Crows' is often cited as Van Gogh's very last painting, though this is debated. The dark, stormy sky and the path leading nowhere suggest a sense of isolation."
+},
+{
+    "id": 25,
+    "category": "Artworks",
+    "content": "'The Yellow House' depicts the house in Arles where Van Gogh lived and hoped to establish a community of artists. He rented four rooms in the right wing of the building."
+},
+{
+    "id": 26,
+    "category": "Artworks",
+    "content": "'Skull of a Skeleton with Burning Cigarette' is a humorous, early work from his time at the Antwerp art academy. It is often interpreted as a juvenile joke or a comment on academic training."
+},
+{
+    "id": 27,
+    "category": "Artworks",
+    "content": "'Tree Roots' is believed by many researchers to be Van Gogh's actual final painting. It is an abstract-looking close-up of roots and tree trunks."
+},
+{
+    "id": 28,
+    "category": "Artworks",
+    "content": "'Sunflowers' is one of Van Gogh's most famous works. Painted in Arles in 1889, he used various shades of yellow to express happiness and gratitude."
+},
+{
+    "id": 29,
+    "category": "Artworks",
+    "content": "'The Potato Eaters' is considered his first masterpiece. Painted in 1885, this work depicts peasant life in its roughest, most natural form, using dark, earthy tones."
+},
+{
+    "id": 30,
+    "category": "Artworks",
+    "content": "'Almond Blossom' was a gift for Vincent's newborn nephew. It shows white blossoms against a blue sky, symbolizing the start of a new life."
+},
+{
+    "id": 31,
+    "category": "Artworks",
+    "content": "'Self-Portrait with Grey Felt Hat' is from his Paris period. He used pointillist techniques, placing colors side-by-side on the canvas rather than blending them."
+},
+{
+    "id": 32,
+    "category": "Artworks",
+    "content": "'The Bedroom' depicts Van Gogh's room in the 'Yellow House' in Arles. He used simple furniture and specific colors to convey a sense of rest and peace."
+}
+]
