@@ -1,0 +1,40 @@
+{
+  "description": "Example input and output flow of the Van Gogh Museum AI Assistant.",
+  "scenario": "User asks about ticket prices.",
+  "flow": [
+    {
+      "step": 1,
+      "component": "User Input (Chat)",
+      "data": "How much are the tickets?"
+    },
+    {
+      "step": 2,
+      "component": "AI Agent -> Python API Request (JSON)",
+      "data": {
+        "query": "ticket prices",
+        "top_k": 3
+      }
+    },
+    {
+      "step": 3,
+      "component": "Python API -> AI Agent Response (JSON)",
+      "data": {
+        "results": [
+          {
+            "content": "Category: Tickets\nInfo: Tickets for the Van Gogh Museum are only available online. Tickets are not sold at the door. Visitors must book a time slot in advance.",
+            "similarity_score": 0.3421
+          },
+          {
+            "content": "Category: Visitor Info\nInfo: The museum is open daily, though opening hours may vary by season. Generally, it is open from 09:00 AM to 06:00 PM.",
+            "similarity_score": 0.4102
+          }
+        ]
+      }
+    },
+    {
+      "step": 4,
+      "component": "Final AI Output (Chat Response)",
+      "data": "Tickets for the Van Gogh Museum are only available online, and you must book a time slot in advance. The museum does not sell tickets at the door."
+    }
+  ]
+}
